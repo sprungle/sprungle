@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sprungle
-- 👀 I’m interested in learning new, being creative, playing music, sining, impro theater, making the most out of it!
+- 👀 I’m interested in learning new, being creative, playing music, sining, impro theater, in general making the most out of it!
 - 🌱 I’m currently learning the basics!
 - 💞️ I’m looking to collaborate on - will update later.
 - 📫 How to reach me ...

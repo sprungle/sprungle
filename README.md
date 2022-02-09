@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @sprungle
-- 👀 I’m interested in learning new, being creative, playing music, sining, impro theater, in general making the most out of it!
-- 🌱 I’m currently learning the basics!
-- 💞️ I’m looking to collaborate on - will update later.
-- 📫 How to reach me ...
+- 🌱 I’m currently learning the basics of web development
 
 <!---
 sprungle/sprungle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

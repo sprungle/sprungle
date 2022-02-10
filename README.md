@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sprungle
+- 👋 Hi,
 - 🌱 I’m currently learning the basics of web development
 
 <!---

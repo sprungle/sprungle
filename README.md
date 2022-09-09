@@ -1,5 +1,5 @@
 - 👋 Hi,
-- 🌱 I’m learning the basics of web development.
+- 🌱 I’m learning web development.
 
 <!---
 sprungle/sprungle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
